@@ -11,9 +11,5 @@ Membuat query hasil Identifikasi dari Database yang dibuat dan terlampir query i
 
 **Link Identifikasi:**
 https://docs.google.com/document/d/1LHzBZTE7pYvirirriYfzreAPI-8Pz25W0u0fitQXYsw/edit?usp=sharing 
-.
-.
-.
-.
-.
+
 **Progress Masih Berlanjut**
