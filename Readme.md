@@ -12,4 +12,13 @@ Membuat query hasil Identifikasi dari Database yang dibuat dan terlampir query i
 **Link Identifikasi:**
 https://docs.google.com/document/d/1LHzBZTE7pYvirirriYfzreAPI-8Pz25W0u0fitQXYsw/edit?usp=sharing 
 
-**Progress Masih Berlanjut**
+### Tugas Utama 2 & 3
+Menentukan indexing dan pembuatan Powerpoint untuk presentasi keseluruhannya.
+
+**Link Presentasi:**
+https://www.canva.com/design/DAEYcekCwaw/share/preview?token=t_JNsz6Sq-iFCsDoIFklRw&role=EDITOR&utm_campaign=designshare&utm_source=sharebutton
+
+**Link Video Presentasi:**
+https://drive.google.com/folderview?id=1ghVSc9oKG8fYkD-zyJKck7fVa9sb8Er_
+
+**Progress Selesai**
